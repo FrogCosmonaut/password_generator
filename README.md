@@ -5,7 +5,9 @@ Generate secure and random passwords with ease! This Python module allows you to
 ## Features
 
 ✨ **Length Customization:** Specify the desired length of your password.
+
 ✨ **Complexity Options:** Choose which character types to include in your password.
+
 ✨ **Pronounceable Passwords:** Generate passwords that are easy to remember.
 
 ## Usage
